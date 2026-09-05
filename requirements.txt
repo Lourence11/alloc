@@ -1,0 +1,9 @@
+streamlit
+pandas
+openpyxl
+msoffcrypto-tool
+xlrd
+xlwt
+requests
+streamlit-shadcn-ui
+python-calamine
