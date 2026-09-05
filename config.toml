@@ -1,0 +1,7 @@
+[server]
+maxUploadSize = 5000
+maxMessageSize = 5000
+
+[theme]
+base = "light"
+primaryColor = "#4f46e5"
